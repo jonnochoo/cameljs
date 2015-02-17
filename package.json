@@ -9,8 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "a"
+    "url": "https://github.com/jonnochoo/cameljs"
   },
+  "homepage": "https://github.com/jonnochoo/cameljs",
   "author": "Jonathon Choo",
   "license": "MIT",
   "devDependencies": {
