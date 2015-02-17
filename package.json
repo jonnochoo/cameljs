@@ -1,0 +1,19 @@
+{
+  "name": "cameljs",
+  "version": "0.0.1",
+  "description": "a utility to camel case all properties on a javascript object",
+  "main": "camel.js",
+  "scripts": {
+    "test": "jasmine-node specs",
+    "dev": "jasmine-node specs --autotest --watch specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "author": "Jonathon Choo",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
